@@ -1,0 +1,5 @@
+activate tf
+conda install pytorch torchvision cpuonly -c pytorch
+conda install -c fastai fastai
+
+
